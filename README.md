@@ -1,5 +1,5 @@
 # Blog Web Application
-A basic and simple blog web application using Express and Node JS.
+A basic and simple blog web application using EJS and Node JS.
 
 ## Running the program
 
